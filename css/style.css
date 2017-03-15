@@ -49,10 +49,10 @@ table {
 
 body {
 	width: 100%;
-/*	height: 100%;*/
+	height: 100%;
 	background-color: #d8d8d8;
 }
-/*dlaczego jeżeli ustawimy height 33% to nie działa??? czy musi być podana sztywna wartość w px?*/
+/*dlaczego jeżeli ustawimy height 33% to nie działa??? czy musi być podana sztywna wartość w px?* cody ma nadane 100% wysokościa to nie działa*/
 .wrap {
 	width: 900px;
 	height:900px;
